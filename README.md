@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Prithwish Das
@@ -383,7 +382,6 @@ No formal Cisco certification yet.
 
 ## Current Focus
 
-```yaml
 Learning:
   - Machine Learning
   - Data Structures & Algorithms
@@ -405,37 +403,24 @@ Open To:
   - Freelance projects
   - Research collaborations
   - Technical networking
-````
-
----
-
-## Connect
+Connect
 
 <div align="center">
 
-<a href="mailto:prithwish6636@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-prithwish6636%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:prithwish6636@gmail.com"> <img src="https://img.shields.io/badge/Gmail-prithwish6636%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
-<img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/prithwish-das-9a0935390/"> <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="https://github.com/PrithwishDas101">
-<img src="https://img.shields.io/badge/GitHub-PrithwishDas101-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/PrithwishDas101"> <img src="https://img.shields.io/badge/GitHub-PrithwishDas101-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </div>
 
----
-
 <div align="center">
 
-### "Build useful things. Learn relentlessly. Ship what matters."
+"Build useful things. Learn relentlessly. Ship what matters."
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
-```
