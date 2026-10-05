@@ -349,7 +349,7 @@ Building practical software projects while studying Computer Science and Artific
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -369,7 +369,6 @@ Building practical software projects while studying Computer Science and Artific
 </picture>
 
 </div>
----
 
 ## Current Focus
 
