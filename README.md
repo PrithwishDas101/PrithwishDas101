@@ -48,6 +48,22 @@ I enjoy turning ideas into working products and exploring the engineering decisi
 
 > **Build useful things. Understand the engineering. Keep learning.**
 
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img
+  src="./github-metrics.svg"
+  alt="GitHub Metrics"
+  width="90%"
+/>
+
+</div>
+
+---
+
 ### Open To
 
 * Open-source collaborations
@@ -316,20 +332,6 @@ Building practical software projects while studying Computer Science and Artific
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@6ef6d20a-3e8d-4e20-acc0-8ec419995193&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Coding Activity" />
-
-</div>
-
----
-
-## GitHub Metrics
-
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  width="100%"
-  alt="GitHub Metrics"
-/>
 
 </div>
 
