@@ -351,6 +351,8 @@ Building practical software projects while studying Computer Science and Artific
 
 ## Contribution Snake
 
+### Watch the snake eat my commits
+
 <div align="center">
 
 <picture>
