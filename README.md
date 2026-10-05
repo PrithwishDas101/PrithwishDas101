@@ -325,7 +325,11 @@ Building practical software projects while studying Computer Science and Artific
 
 <div align="center">
 
-<!-- Add generated github-metrics.svg after GitHub Metrics is configured -->
+<img
+  src="./github-metrics.svg"
+  width="100%"
+  alt="GitHub Metrics"
+/>
 
 </div>
 
