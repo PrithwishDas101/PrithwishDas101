@@ -315,7 +315,7 @@ Building practical software projects while studying Computer Science and Artific
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Coding Activity" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PrithwishDas101&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Coding Activity" />
 
 </div>
 
