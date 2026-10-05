@@ -298,26 +298,6 @@ Building practical software projects while studying Computer Science and Artific
 
 ---
 
-## Certifications
-
-### AWS
-
-Currently building foundational knowledge; no formal AWS certification yet.
-
-### Oracle
-
-No formal Oracle certification yet.
-
-### NPTEL
-
-No formal NPTEL certification yet.
-
-### Cisco
-
-No formal Cisco certification yet.
-
----
-
 ## Coding Profiles
 
 <div align="center">
@@ -353,9 +333,7 @@ No formal Cisco certification yet.
 ## GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrithwishDas101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=PrithwishDas101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
 ---
@@ -363,21 +341,34 @@ No formal Cisco certification yet.
 ## Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrithwishDas101&bg_color=0D1117&color=6366F1&line=7C3AED&point=818CF8&area=true&hide_border=true" width="100%"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PrithwishDas101&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
 ---
 
 ## Current Focus
