@@ -333,7 +333,10 @@ Building practical software projects while studying Computer Science and Artific
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrithwishDas101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy-alpha.vercel.app/?username=PrithwishDas101&theme=onedark&no-frame=true&no-bg=true&margin-w=4"
+    alt="Prithwish's GitHub Trophies"
+  />
 </div>
 
 ---
@@ -342,8 +345,9 @@ Building practical software projects while studying Computer Science and Artific
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PrithwishDas101&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph-two.vercel.app/graph?username=PrithwishDas101&theme=tokyo-night&hide_border=true"
     width="100%"
+    alt="Prithwish's GitHub Activity Graph"
   />
 </div>
 
