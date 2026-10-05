@@ -315,7 +315,7 @@ Building practical software projects while studying Computer Science and Artific
 
 <div align="center">
 
-<!-- Add WakaTime widget after WakaTime is configured -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Coding Activity" />
 
 </div>
 
