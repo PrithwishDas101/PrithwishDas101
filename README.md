@@ -16,14 +16,14 @@
 
 <br/><br/>
 
-📍 Kolkata, West Bengal, India
-
 <a href="mailto:prithwish6636@gmail.com">
   <img src="https://img.shields.io/badge/Email-prithwish6636%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
   <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-4F46E5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/PrithwishDas101">
   <img src="https://img.shields.io/badge/GitHub-PrithwishDas101-111827?style=flat-square&logo=github&logoColor=white"/>
 </a>
@@ -42,20 +42,20 @@
 
 I am a **B.Tech CSE AI/ML student at Narula Institute of Technology**, building my foundation across software engineering, full-stack development, and artificial intelligence.
 
-I started with web development and have gradually moved toward **Python, machine learning, and AI**, with a focus on understanding how systems work rather than simply following tutorials.
+I started with web development and am now moving toward **Python, machine learning, and AI**, with a focus on understanding how systems work rather than simply following tutorials.
 
-I enjoy turning ideas into working products and exploring the engineering decisions behind them — from APIs and databases to authentication, real-time systems, and emerging AI technologies.
+I enjoy turning ideas into working products and exploring the engineering decisions behind them — from APIs and databases to authentication, real-time systems, cloud deployment, and emerging AI technologies.
 
 > **Build useful things. Understand the engineering. Keep learning.**
 
 ### Open To
 
-- Open-source collaborations
-- Hackathons
-- Freelance projects
-- Research collaborations
-- Software and AI/ML collaborations
-- Networking with developers and builders
+* Open-source collaborations
+* Hackathons
+* Freelance projects
+* Research collaborations
+* Software and AI/ML collaborations
+* Networking with developers and builders
 
 ---
 
@@ -91,24 +91,25 @@ I enjoy turning ideas into working products and exploring the engineering decisi
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Currently learning:** NumPy · Machine Learning fundamentals · ML algorithms  
+**Currently learning:** NumPy · Machine Learning fundamentals · ML algorithms
+
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
 
 ---
 
 ## AI/ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python | Beginner / Intermediate | Building Python fundamentals for AI/ML |
-| NumPy | Beginner | Beginning numerical computing and array operations |
-| Pandas | Not started | Planned as part of the ML learning path |
-| Scikit-learn | Not started | Planned after core ML fundamentals |
-| Machine Learning | Learning | Studying fundamental algorithms and concepts |
-| Deep Learning | Not started | Exploring as a future specialization |
-| TensorFlow / PyTorch | Not started | Planned after foundational ML |
-| LLMs | Experimenting | Exploring modern language-model capabilities and workflows |
-| Computer Vision | Exploring | Future learning focus |
+| Domain               | Proficiency             | Details                                                    |
+| -------------------- | ----------------------- | ---------------------------------------------------------- |
+| Python               | Beginner / Intermediate | Building Python fundamentals for AI/ML                     |
+| NumPy                | Beginner                | Beginning numerical computing and array operations         |
+| Pandas               | Not started             | Planned as part of the ML learning path                    |
+| Scikit-learn         | Not started             | Planned after core ML fundamentals                         |
+| Machine Learning     | Learning                | Studying fundamental algorithms and concepts               |
+| Deep Learning        | Not started             | Exploring as a future specialization                       |
+| TensorFlow / PyTorch | Not started             | Planned after foundational ML                              |
+| LLMs                 | Experimenting           | Exploring modern language-model capabilities and workflows |
+| Computer Vision      | Exploring               | Future learning focus                                      |
 
 ---
 
@@ -123,24 +124,24 @@ A modern **MERN expense tracker** designed around personal finance management, f
 
 ### Engineering Overview
 
-| Area | Details |
-|---|---|
-| Stack | React, Node.js, Express.js, MongoDB, JWT |
-| Scale | Personal / small-user application |
-| Performance | Responsive dashboard with client-side data visualization |
-| Security | JWT authentication and protected application routes |
-| Impact | Helps users track income, expenses, and financial insights |
-| Repository | [PrithwishDas101/Flow-Ledger](https://github.com/PrithwishDas101/Flow-Ledger) |
+| Area        | Details                                                                       |
+| ----------- | ----------------------------------------------------------------------------- |
+| Stack       | React, Node.js, Express.js, MongoDB, JWT                                      |
+| Scale       | Personal / small-user application                                             |
+| Performance | Responsive dashboard with client-side data visualization                      |
+| Security    | JWT authentication and protected application routes                           |
+| Impact      | Helps users track income, expenses, and financial insights                    |
+| Repository  | [PrithwishDas101/Flow-Ledger](https://github.com/PrithwishDas101/Flow-Ledger) |
 
 ### Highlights
 
-- Income and expense management
-- Interactive financial charts
-- Excel export functionality
-- JWT-based authentication
-- Profile image uploads
-- Responsive fintech-oriented interface
-- Full-stack REST API architecture
+* Income and expense management
+* Interactive financial charts
+* Excel export functionality
+* JWT-based authentication
+* Profile image uploads
+* Responsive fintech-oriented interface
+* Full-stack REST API architecture
 
 </details>
 
@@ -149,28 +150,27 @@ A modern **MERN expense tracker** designed around personal finance management, f
 
 <br/>
 
-A handcrafted **MERN notes application** focused on building a complete CRUD workflow with authentication, API architecture, rate limiting, and a modern responsive interface.
+A handcrafted **MERN notes application** focused on building a complete CRUD workflow with API architecture, database persistence, rate limiting, and a modern responsive interface.
 
 ### Engineering Overview
 
-| Area | Details |
-|---|---|
-| Stack | React, Node.js, Express.js, MongoDB, Tailwind CSS |
-| Scale | Personal / small-user application |
-| Performance | Lightweight REST API with rate limiting |
-| Security | API protection and request rate limiting |
-| Impact | Practical full-stack CRUD application |
-| Repository | [PrithwishDas101/Note-Nest](https://github.com/PrithwishDas101/Note-Nest) |
+| Area        | Details                                           |
+| ----------- | ------------------------------------------------- |
+| Stack       | React, Node.js, Express.js, MongoDB, Tailwind CSS |
+| Scale       | Personal / small-user application                 |
+| Performance | Lightweight REST API with request rate limiting   |
+| Security    | API protection and request rate limiting          |
+| Impact      | Practical full-stack CRUD application             |
 
 ### Highlights
 
-- Full CRUD notes workflow
-- REST API architecture
-- MongoDB persistence
-- Tailwind CSS + daisyUI
-- Lucide icon system
-- Upstash-based API rate limiting
-- Responsive application structure
+* Full CRUD notes workflow
+* REST API architecture
+* MongoDB persistence
+* Tailwind CSS + daisyUI
+* Lucide icon system
+* Upstash-based API rate limiting
+* Responsive application structure
 
 </details>
 
@@ -183,31 +183,31 @@ A full-stack **real-time messaging platform** built to explore production-orient
 
 ### Engineering Overview
 
-| Area | Details |
-|---|---|
-| Stack | React, Vite, Node.js, Express.js, MongoDB, Socket.IO |
-| Additional | JWT, Mongoose, Cloudinary, Vercel, Render |
-| Scale | Full-stack real-time application |
-| Performance | Real-time WebSocket communication |
-| Security | JWT authentication and authenticated socket lifecycle |
-| Impact | Explores modern real-time communication architecture |
-| Repository | [PrithwishDas101/Aetherion](https://github.com/PrithwishDas101/Aetherion) |
+| Area        | Details                                                                   |
+| ----------- | ------------------------------------------------------------------------- |
+| Stack       | React, Vite, Node.js, Express.js, MongoDB, Socket.IO                      |
+| Additional  | JWT, Mongoose, Cloudinary, Vercel, Render                                 |
+| Scale       | Full-stack real-time application                                          |
+| Performance | Real-time WebSocket communication                                         |
+| Security    | JWT authentication and authenticated socket lifecycle                     |
+| Impact      | Explores modern real-time communication architecture                      |
+| Repository  | [PrithwishDas101/Aetherion](https://github.com/PrithwishDas101/Aetherion) |
 
 ### Highlights
 
-- Real-time one-to-one messaging
-- Persistent conversation history
-- Images, GIFs, videos and document sharing
-- Replies and interactive message features
-- Location and contact sharing
-- Poll creation and voting
-- Typing and presence indicators
-- Contact management
-- MongoDB transactions for message integrity
-- Atomic poll voting
-- Authenticated Socket.IO lifecycle
-- Cloudinary media integration
-- Production deployment across Vercel, Render and MongoDB Atlas
+* Real-time one-to-one messaging
+* Persistent conversation history
+* Images, GIFs, videos and document sharing
+* Replies and interactive message features
+* Location and contact sharing
+* Poll creation and voting
+* Typing and presence indicators
+* Contact management
+* MongoDB transactions for message integrity
+* Atomic poll voting
+* Authenticated Socket.IO lifecycle
+* Cloudinary media integration
+* Production deployment across Vercel, Render and MongoDB Atlas
 
 **Live Application:** [Aetherion](https://aetherion-lime.vercel.app/)
 
@@ -222,23 +222,23 @@ A local AI chatbot inspired by **K-2SO**, built to experiment with locally hoste
 
 ### Engineering Overview
 
-| Area | Details |
-|---|---|
-| Stack | Python, Ollama, LLaMA 3 |
-| Scale | Local AI application |
-| Performance | Runs through a locally hosted model |
-| Security | Local-first experimentation |
-| Impact | Practical exploration of LLM-powered applications |
-| Repository | [PrithwishDas101/K-2SO](https://github.com/PrithwishDas101/K-2SO) |
+| Area        | Details                                                           |
+| ----------- | ----------------------------------------------------------------- |
+| Stack       | Python, Ollama, LLaMA 3                                           |
+| Scale       | Local AI application                                              |
+| Performance | Runs through a locally hosted model                               |
+| Security    | Local-first experimentation                                       |
+| Impact      | Practical exploration of LLM-powered applications                 |
+| Repository  | [PrithwishDas101/K-2SO](https://github.com/PrithwishDas101/K-2SO) |
 
 ### Highlights
 
-- Local LLM integration
-- Conversational memory
-- Python-based implementation
-- Ollama model runtime
-- Personality-driven responses
-- Experimentation with locally hosted AI
+* Local LLM integration
+* Conversational memory
+* Python-based implementation
+* Ollama model runtime
+* Personality-driven responses
+* Experimentation with locally hosted AI
 
 </details>
 
@@ -247,54 +247,35 @@ A local AI chatbot inspired by **K-2SO**, built to experiment with locally hoste
 
 <br/>
 
-A blockchain-oriented project exploring **Stellar Soroban smart-contract technology** and NFT gallery experiences.
+A blockchain-oriented experimental project exploring the **Stellar Soroban ecosystem** and NFT gallery experiences.
 
 ### Engineering Overview
 
-| Area | Details |
-|---|---|
-| Focus | Stellar / Soroban ecosystem |
-| Scale | Experimental Web3 project |
-| Direction | NFT and blockchain interaction |
-| Impact | Exploration of decentralized application development |
-| Repository | [PrithwishDas101/StellarCanvas](https://github.com/PrithwishDas101/StellarCanvas) |
+| Area      | Details                                              |
+| --------- | ---------------------------------------------------- |
+| Focus     | Stellar / Soroban ecosystem                          |
+| Scale     | Experimental Web3 project                            |
+| Direction | NFT and blockchain interaction                       |
+| Impact    | Exploration of decentralized application development |
 
 </details>
 
 ---
 
-## Experience
+## Engineering Journey
 
-### Engineering Journey
-
-**Independent Developer & Student Engineer**  
+**Independent Developer & Student Engineer**
 `2025 — Present`
 
 Building practical software projects while studying Computer Science and Artificial Intelligence/Machine Learning.
 
-- Started with full-stack web development and progressively expanded into backend architecture and real-time systems.
-- Built multiple MERN applications from the ground up.
-- Explored authentication, databases, REST APIs, WebSockets, cloud deployment, and third-party integrations.
-- Began transitioning from web development toward Python and machine learning.
-- Experimenting with LLM-based applications while developing a stronger AI/ML foundation.
+* Started with full-stack web development and progressively expanded into backend architecture and real-time systems.
+* Built multiple MERN applications from the ground up.
+* Explored authentication, databases, REST APIs, WebSockets, cloud deployment, and third-party integrations.
+* Began transitioning from web development toward Python and machine learning.
+* Experimenting with LLM-based applications while developing a stronger AI/ML foundation.
 
 **Skills:** Full-Stack Development · React · Node.js · Express.js · MongoDB · REST APIs · WebSockets · Python · AI/ML Fundamentals
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Academic Journey | B.Tech CSE — AI/ML at Narula Institute of Technology |
-| Project Portfolio | Built multiple independent full-stack and AI-focused projects |
-| Engineering Direction | Transitioning from full-stack development toward AI/ML engineering |
-
-</div>
-
-> Currently focused on building a stronger track record through projects, problem solving, open-source collaboration, and technical learning.
 
 ---
 
@@ -330,13 +311,35 @@ Building practical software projects while studying Computer Science and Artific
 
 ---
 
+## Coding Activity
+
+<div align="center">
+
+<!-- Add WakaTime widget after WakaTime is configured -->
+
+</div>
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<!-- Add generated github-metrics.svg after GitHub Metrics is configured -->
+
+</div>
+
+---
+
 ## GitHub Trophies
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy-alpha.vercel.app/?username=PrithwishDas101&theme=onedark&no-frame=true&no-bg=true&margin-w=4"
-    alt="Prithwish's GitHub Trophies"
-  />
+
+<img
+src="https://github-profile-trophy-alpha.vercel.app/?username=PrithwishDas101&theme=onedark&no-frame=true&no-bg=true&margin-w=4"
+alt="Prithwish's GitHub Trophies"
+/>
+
 </div>
 
 ---
@@ -344,40 +347,49 @@ Building practical software projects while studying Computer Science and Artific
 ## Contribution Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph-two.vercel.app/graph?username=PrithwishDas101&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="Prithwish's GitHub Activity Graph"
-  />
+
+<img
+src="https://github-readme-activity-graph-two.vercel.app/graph?username=PrithwishDas101&theme=tokyo-night&hide_border=true"
+width="100%"
+alt="Prithwish's GitHub Activity Graph"
+/>
+
 </div>
 
 ---
 
 ## Contribution Snake
 
-### Watch the snake eat my commits
+**Watch the snake eat my commits.**
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
 
 </div>
 
+---
+
 ## Current Focus
 
+```yaml
 Learning:
   - Machine Learning
   - Data Structures & Algorithms
@@ -399,21 +411,33 @@ Open To:
   - Freelance projects
   - Research collaborations
   - Technical networking
-Connect
+```
+
+---
+
+## Connect
 
 <div align="center">
 
-<a href="mailto:prithwish6636@gmail.com"> <img src="https://img.shields.io/badge/Gmail-prithwish6636%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:prithwish6636@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-prithwish6636%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/prithwish-das-9a0935390/"> <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
+<img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://github.com/PrithwishDas101"> <img src="https://img.shields.io/badge/GitHub-PrithwishDas101-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/PrithwishDas101">
+<img src="https://img.shields.io/badge/GitHub-PrithwishDas101-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-"Build useful things. Learn relentlessly. Ship what matters."
+> **"Build useful things. Learn relentlessly. Ship what matters."**
 
 <br/>
 
