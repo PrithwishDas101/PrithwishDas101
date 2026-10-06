@@ -57,7 +57,8 @@ I enjoy turning ideas into working products and exploring the engineering decisi
 <img
   src="./github-metrics.svg"
   alt="GitHub Metrics"
-  width="90%"
+  width="850"
+  style="max-width: 100%;"
 />
 
 </div>
