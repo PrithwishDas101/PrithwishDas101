@@ -330,12 +330,8 @@ Building practical software projects while studying Computer Science and Artific
 
 ## Coding Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@6ef6d20a-3e8d-4e20-acc0-8ec419995193&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Coding Activity" />
-
-</div>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## GitHub Trophies
