@@ -2,37 +2,33 @@
 
 # Prithwish Das
 
-### AI/ML Engineer in the Making | Full-Stack Developer
+### Engineering student building at the intersection of software, systems & AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=Prithwish%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p>
+  <a href="https://github.com/PrithwishDas101">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prithwish6636@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Engineer+in+the+Making;Building+Useful+Products;Learning+Machine+Learning;Exploring+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=Building+full-stack+applications;Learning+AI%2FML+from+the+foundations;Turning+ideas+into+working+software;Curious+about+systems%2C+APIs+%26+intelligent+products" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20AI%2FML-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Narula%20Institute%20of%20Technology-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20%7C%20AI%2FML-Student-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/Narula%20Institute%20of%20Technology-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/Building-Always-18181B?style=flat-square" />
 
 <br/><br/>
 
-<a href="mailto:prithwish6636@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prithwish6636%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-4F46E5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/PrithwishDas101">
-  <img src="https://img.shields.io/badge/GitHub-PrithwishDas101-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PrithwishDas101&style=flat-square&color=6366F1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/PrithwishDas101?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/PrithwishDas101?style=flat-square&color=7C3AED&label=TOTAL+STARS"/>
+<img src="https://komarev.com/ghpvc/?username=PrithwishDas101&style=flat-square&color=F97316&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/PrithwishDas101?style=flat-square&color=18181B&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/PrithwishDas101?style=flat-square&color=18181B&label=TOTAL+STARS" />
 
 </div>
 
@@ -40,13 +36,18 @@
 
 ## About
 
-I am a **B.Tech CSE AI/ML student at Narula Institute of Technology**, building my foundation across software engineering, full-stack development, and artificial intelligence.
+I'm **Prithwish**, a Computer Science student specializing in **AI/ML at Narula Institute of Technology**.
 
-I started with web development and am now moving toward **Python, machine learning, and AI**, with a focus on understanding how systems work rather than simply following tutorials.
+I started by building things for the web — React on the front, Node and Express behind it, MongoDB keeping things alive — and gradually got more interested in what happens underneath the interface. APIs, authentication, databases, real-time communication, deployment, and the engineering choices that make software actually hold together.
 
-I enjoy turning ideas into working products and exploring the engineering decisions behind them — from APIs and databases to authentication, real-time systems, cloud deployment, and emerging AI technologies.
+Now I'm pushing that foundation toward **Python and AI/ML**. I'm learning the fundamentals properly, experimenting with local LLMs, and working toward building AI systems rather than just plugging an API into a UI.
 
-> **Build useful things. Understand the engineering. Keep learning.**
+Most of the projects here are me learning by doing: **build it → break it → figure out why → make it better**.
+
+> **I don't want a GitHub full of tutorials. I want a GitHub that shows what I can build.**
+
+**Currently:** Full-stack development · Python · Machine Learning · DSA  
+**Exploring:** LLMs · Computer Vision · Deep Learning
 
 ---
 
