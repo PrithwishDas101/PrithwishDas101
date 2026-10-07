@@ -38,56 +38,6 @@
 </p>
 
 ---
-<h1 align="center">Hi, I'm Prithwish Das</h1>
-<h3 align="center">AI/ML Student | Full-Stack Developer | Building & Learning in Public</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PrithwishDas101&label=Profile%20views&color=F97316&style=flat" alt="PrithwishDas101" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/PrithwishDas101">
-    <img src="https://img.shields.io/github/followers/PrithwishDas101?label=Followers&style=flat&color=18181B" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/PrithwishDas101">
-    <img src="https://img.shields.io/github/stars/PrithwishDas101?label=Stars&style=flat&color=18181B" alt="GitHub stars" />
-  </a>
-  <a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-18181B?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-- 🔭 Currently building **full-stack applications** and sharpening my software engineering fundamentals.
-
-- 🌱 Currently learning **Python, Machine Learning, DSA, and AI/ML fundamentals**.
-
-- 👨‍💻 My projects are available here: **[github.com/PrithwishDas101](https://github.com/PrithwishDas101?tab=repositories)**
-
-- 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, and full-stack development**.
-
-- 📫 Reach me at **prithwish6636@gmail.com**
-
----
-
-## About
-
-I'm a **B.Tech CSE AI/ML student at Narula Institute of Technology**, interested in building software and gradually moving deeper into AI/ML.
-
-I started with **full-stack web development**, working with React, Node.js, Express, and MongoDB. Along the way, I've built projects involving REST APIs, authentication, databases, real-time communication, and deployment.
-
-Right now, I'm strengthening my **Python and machine learning foundations** and exploring areas like **LLMs, computer vision, and deep learning**.
-
-I learn mostly by building — taking an idea, turning it into something that works, figuring out what I did wrong, and improving it from there.
-
-> **Build. Break. Understand. Improve.**
-
-**Tech I'm working with:** JavaScript · React · Node.js · Express · MongoDB · Python · Java · C
-
-**Currently exploring:** Machine Learning · LLMs · Computer Vision · Deep Learning
-
----
-
-## GitHub Metrics
 
 <div align="center">
 
