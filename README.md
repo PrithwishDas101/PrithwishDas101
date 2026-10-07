@@ -1,53 +1,49 @@
-<div align="center">
+<h1 align="center">Hi, I'm Prithwish Das</h1>
+<h3 align="center">AI/ML Student | Full-Stack Developer | Building & Learning in Public</h3>
 
-# Prithwish Das
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrithwishDas101&label=Profile%20views&color=F97316&style=flat" alt="PrithwishDas101" />
+</p>
 
-### Engineering student building at the intersection of software, systems & AI.
-
-<p>
+<p align="left">
   <a href="https://github.com/PrithwishDas101">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/PrithwishDas101?label=Followers&style=flat&color=18181B" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/PrithwishDas101">
+    <img src="https://img.shields.io/github/stars/PrithwishDas101?label=Stars&style=flat&color=18181B" alt="GitHub stars" />
   </a>
   <a href="https://www.linkedin.com/in/prithwish-das-9a0935390/">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prithwish6636@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prithwish%20Das-18181B?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=Building+full-stack+applications;Learning+AI%2FML+from+the+foundations;Turning+ideas+into+working+software;Curious+about+systems%2C+APIs+%26+intelligent+products" alt="Typing SVG" />
+- 🔭 Currently building **full-stack applications** and sharpening my software engineering fundamentals.
 
-<br/>
+- 🌱 Currently learning **Python, Machine Learning, DSA, and AI/ML fundamentals**.
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20%7C%20AI%2FML-Student-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/Narula%20Institute%20of%20Technology-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Building-Always-18181B?style=flat-square" />
+- 👨‍💻 My projects are available here: **[github.com/PrithwishDas101](https://github.com/PrithwishDas101?tab=repositories)**
 
-<br/><br/>
+- 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, and full-stack development**.
 
-<img src="https://komarev.com/ghpvc/?username=PrithwishDas101&style=flat-square&color=F97316&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/PrithwishDas101?style=flat-square&color=18181B&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/PrithwishDas101?style=flat-square&color=18181B&label=TOTAL+STARS" />
-
-</div>
+- 📫 Reach me at **prithwish6636@gmail.com**
 
 ---
 
 ## About
 
-I'm **Prithwish**, a Computer Science student specializing in **AI/ML at Narula Institute of Technology**.
+I'm a **B.Tech CSE AI/ML student at Narula Institute of Technology**, interested in building software and gradually moving deeper into AI/ML.
 
-I started by building things for the web — React on the front, Node and Express behind it, MongoDB keeping things alive — and gradually got more interested in what happens underneath the interface. APIs, authentication, databases, real-time communication, deployment, and the engineering choices that make software actually hold together.
+I started with **full-stack web development**, working with React, Node.js, Express, and MongoDB. Along the way, I've built projects involving REST APIs, authentication, databases, real-time communication, and deployment.
 
-Now I'm pushing that foundation toward **Python and AI/ML**. I'm learning the fundamentals properly, experimenting with local LLMs, and working toward building AI systems rather than just plugging an API into a UI.
+Right now, I'm strengthening my **Python and machine learning foundations** and exploring areas like **LLMs, computer vision, and deep learning**.
 
-Most of the projects here are me learning by doing: **build it → break it → figure out why → make it better**.
+I learn mostly by building — taking an idea, turning it into something that works, figuring out what I did wrong, and improving it from there.
 
-> **I don't want a GitHub full of tutorials. I want a GitHub that shows what I can build.**
+> **Build. Break. Understand. Improve.**
 
-**Currently:** Full-stack development · Python · Machine Learning · DSA  
-**Exploring:** LLMs · Computer Vision · Deep Learning
+**Tech I'm working with:** JavaScript · React · Node.js · Express · MongoDB · Python · Java · C
+
+**Currently exploring:** Machine Learning · LLMs · Computer Vision · Deep Learning
 
 ---
 
