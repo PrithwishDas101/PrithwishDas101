@@ -320,15 +320,15 @@ Building practical software projects while studying Computer Science and Artific
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 2 hrs 12 mins
+Total Time: 1 hr
 
-JavaScript   1 hr 26 mins          ████████████████░░░░░░░░░   64.49 %
-Markdown     19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-JSON         13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Bash         10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-YAML         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Markdown     19 mins               ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+JavaScript   14 mins               ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+JSON         13 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+Bash         10 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+YAML         3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 ```
 
 <!--END_SECTION:waka-->
