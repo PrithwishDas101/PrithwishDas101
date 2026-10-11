@@ -80,8 +80,16 @@
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 </p>
+
+### Authentication & Cloud Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,vercel,render" />
+</p>
+
+**Authentication:** Supabase Auth · Google OAuth · GitHub OAuth · Email authentication
 
 ### Tools, Cloud & Development
 
@@ -95,7 +103,7 @@
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Currently learning:** NumPy · Machine Learning fundamentals · ML algorithms
+**Currently learning:** NumPy · Python for Data Science · Machine Learning fundamentals
 
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
 
@@ -106,7 +114,7 @@
 | Domain               | Proficiency             | Details                                                    |
 | -------------------- | ----------------------- | ---------------------------------------------------------- |
 | Python               | Beginner / Intermediate | Building Python fundamentals for AI/ML                     |
-| NumPy                | Beginner                | Beginning numerical computing and array operations         |
+| NumPy                | Beginner                | Array creation, dimensions, array attributes, reshaping, indexing, slicing, and numerical operations |
 | Pandas               | Not started             | Planned as part of the ML learning path                    |
 | Scikit-learn         | Not started             | Planned after core ML fundamentals                         |
 | Machine Learning     | Learning                | Studying fundamental algorithms and concepts               |
@@ -386,27 +394,28 @@ alt="Prithwish's GitHub Activity Graph"
 
 ## Current Focus
 
-Learning:
-  - Machine Learning
-  - Data Structures & Algorithms
-  - Python for AI/ML
+**Learning**
+- NumPy and numerical computing
+- Data Handling and Exploratory Data Analysis (EDA)
+- Machine Learning fundamentals
+- Authentication with Supabase
 
-Building:
-  - AI/ML projects
-  - Full-stack applications
-  - Practical developer tools
+**Building**
+- Full-stack applications with React and Node.js
+- Applications with authentication flows
+- Practical developer tools and AI-powered applications
 
-Exploring:
-  - Computer Vision
-  - Deep Learning
-  - Large Language Models
+**Exploring**
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
 
-Open To:
-  - Open-source collaborations
-  - Hackathons
-  - Freelance projects
-  - Research collaborations
-  - Technical networking
+**Open To**
+- Open-source collaborations
+- Hackathons
+- Freelance projects
+- Research collaborations
+- Technical networking
 
 ---
 
