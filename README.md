@@ -89,8 +89,6 @@
 <img src="https://skillicons.dev/icons?i=supabase,vercel,render" />
 </p>
 
-**Authentication:** Supabase Auth · Google OAuth · GitHub OAuth · Email authentication
-
 ### Tools, Cloud & Development
 
 <p>
