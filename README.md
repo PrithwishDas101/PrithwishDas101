@@ -117,9 +117,9 @@
 | Domain               | Proficiency             | Details                                                    |
 | -------------------- | ----------------------- | ---------------------------------------------------------- |
 | Python               | Beginner / Intermediate | Building Python fundamentals for AI/ML                     |
-| NumPy                | Beginner                | Array creation, dimensions, array attributes, reshaping, indexing, slicing, and numerical operations |
-| Pandas               | Beginner                | Working with Series, DataFrames, and basic data inspection |
-| Matplotlib           | Basics + Advanced course completed | Data visualization and plotting with Python |
+| NumPy                | Beginner / Intermediate | Array creation, dimensions, array attributes, reshaping, indexing, slicing, and numerical operations |
+| Pandas               | Beginner / Intermediate | Working with Series, DataFrames, and basic data inspection |
+| Matplotlib           | Beginner / Intermediate | Data visualization and plotting with Python |
 | Scikit-learn         | Not started             | Planned after core ML fundamentals                         |
 | Machine Learning     | Learning                | Studying fundamental algorithms and concepts               |
 | Deep Learning        | Not started             | Exploring as a future specialization                       |
