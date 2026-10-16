@@ -101,9 +101,12 @@
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
 </p>
 
 **Currently learning:** NumPy · Pandas (Series & DataFrames) · Python for Data Science · Machine Learning fundamentals
+
+**Completed:** Matplotlib basics and advanced course
 
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
 
@@ -116,6 +119,7 @@
 | Python               | Beginner / Intermediate | Building Python fundamentals for AI/ML                     |
 | NumPy                | Beginner                | Array creation, dimensions, array attributes, reshaping, indexing, slicing, and numerical operations |
 | Pandas               | Beginner                | Working with Series, DataFrames, and basic data inspection |
+| Matplotlib           | Basics + Advanced course completed | Data visualization and plotting with Python |
 | Scikit-learn         | Not started             | Planned after core ML fundamentals                         |
 | Machine Learning     | Learning                | Studying fundamental algorithms and concepts               |
 | Deep Learning        | Not started             | Exploring as a future specialization                       |
@@ -396,6 +400,7 @@ alt="Prithwish's GitHub Activity Graph"
 **Learning**
 - NumPy and numerical computing
 - Pandas Series and DataFrames
+- Data visualization with Matplotlib — basics and advanced course completed
 - Data Handling and Exploratory Data Analysis (EDA)
 - Machine Learning fundamentals
 - Authentication with Supabase
