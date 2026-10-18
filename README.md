@@ -102,6 +102,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn" />
 </p>
 
 **Currently learning:** NumPy · Pandas (Series & DataFrames) · Python for Data Science · Machine Learning fundamentals
@@ -120,6 +121,7 @@
 | NumPy                | Beginner / Intermediate | Array creation, dimensions, array attributes, reshaping, indexing, slicing, and numerical operations |
 | Pandas               | Beginner / Intermediate | Working with Series, DataFrames, and basic data inspection |
 | Matplotlib           | Beginner / Intermediate | Data visualization and plotting with Python |
+| Seaborn              | Learning                | Statistical data visualization with Python |
 | Scikit-learn         | Not started             | Planned after core ML fundamentals                         |
 | Machine Learning     | Learning                | Studying fundamental algorithms and concepts               |
 | Deep Learning        | Not started             | Exploring as a future specialization                       |
@@ -401,6 +403,7 @@ alt="Prithwish's GitHub Activity Graph"
 - NumPy and numerical computing
 - Pandas Series and DataFrames
 - Data visualization with Matplotlib — basics and advanced course completed
+- Seaborn and statistical data visualization
 - Data Handling and Exploratory Data Analysis (EDA)
 - Machine Learning fundamentals
 - Authentication with Supabase
