@@ -390,37 +390,6 @@ alt="Prithwish's GitHub Activity Graph"
 
 </div>
 
-
----
-
-## Current Focus
-
-**Learning**
-- NumPy and numerical computing
-- Pandas Series and DataFrames
-- Data visualization with Matplotlib — basics and advanced course completed
-- Seaborn and statistical data visualization
-- Data Handling and Exploratory Data Analysis (EDA)
-- Machine Learning fundamentals
-- Authentication with Supabase
-
-**Building**
-- Full-stack applications with React and Node.js
-- Applications with authentication flows
-- Practical developer tools and AI-powered applications
-
-**Exploring**
-- Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-
-**Open To**
-- Open-source collaborations
-- Hackathons
-- Freelance projects
-- Research collaborations
-- Technical networking
-
 ---
 
 ## Connect
