@@ -105,10 +105,6 @@
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn" />
 </p>
 
-**Currently learning:** NumPy · Pandas (Series & DataFrames) · Python for Data Science · Machine Learning fundamentals
-
-**Completed:** Matplotlib basics and advanced course
-
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
 
 ---
