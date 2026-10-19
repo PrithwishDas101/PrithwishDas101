@@ -102,7 +102,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=flat&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo-seaborn.png" width="48" height="48" alt="Seaborn icon" />
 </p>
 
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
