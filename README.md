@@ -71,10 +71,10 @@
 <img src="https://skillicons.dev/icons?i=c,python,javascript,java" />
 </p>
 
-### Frontend
+### Frontend & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma" />
 </p>
 
 ### Backend & Databases
@@ -86,7 +86,7 @@
 ### Authentication & Cloud Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=supabase,vercel,render" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,render" />
 </p>
 
 ### Tools, Cloud & Development
