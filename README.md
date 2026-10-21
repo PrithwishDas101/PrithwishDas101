@@ -68,19 +68,19 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,javascript,java" />
+<img src="https://skillicons.dev/icons?i=c,python,javascript,java,typescript" />
 </p>
 
 ### Frontend & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,figma" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,supabase" />
 </p>
 
 ### Authentication & Cloud Services
@@ -92,7 +92,7 @@
 ### Tools, Cloud & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,linux,postman,vercel,render" />
 </p>
 
 ### AI / ML
@@ -103,6 +103,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo-seaborn.png" width="48" height="48" alt="Seaborn icon" />
+<img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook and JupyterLab" />
+</p>
+
+### LLMs & AI APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=ollama,openai" alt="Ollama and OpenAI" />
+<img src="https://img.shields.io/badge/Gemini%20API-Google%20AI-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
 </p>
 
 **Currently exploring:** LLMs · Computer Vision · Deep Learning
