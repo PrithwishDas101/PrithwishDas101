@@ -92,7 +92,7 @@
 ### Tools, Cloud & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,linux,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,postman,vercel,render" />
 </p>
 
 ### AI / ML
