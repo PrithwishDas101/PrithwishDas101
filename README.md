@@ -95,7 +95,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,postman,vercel,render" />
 </p>
 
-### AI / ML
+### AI / ML & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />
