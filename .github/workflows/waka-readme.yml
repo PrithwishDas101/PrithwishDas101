@@ -24,19 +24,19 @@ jobs:
     steps:
       - name: Check WakaTime API access
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_OAUTH_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
         run: |
           set -euo pipefail
 
-          if [ -z "${WAKATIME_API_KEY}" ]; then
-            echo "::error::WAKATIME_API_KEY is missing. Add it in Settings > Secrets and variables > Actions."
+          if [ -z "${WAKATIME_OAUTH_TOKEN}" ]; then
+            echo "::error::WAKATIME_OAUTH_TOKEN is missing. Add it in Settings > Secrets and variables > Actions."
             exit 1
           fi
 
           status="$(curl --silent --show-error \
             --output /tmp/waka-response.json \
             --write-out "%{http_code}" \
-            --user "${WAKATIME_API_KEY}:" \
+            --user "${WAKATIME_OAUTH_TOKEN}:" \
             "https://wakatime.com/api/v1/users/current/stats/last_7_days")"
 
           if [ "${status}" != "200" ]; then
@@ -47,16 +47,17 @@ jobs:
                 echo "WakaTime response: ${message}"
               fi
             fi
-            echo "Check that WAKATIME_API_KEY is the current API key from your WakaTime account. If it was rotated, update the repository secret."
+            echo "Check that WAKATIME_OAUTH_TOKEN is the current API key from your WakaTime account. If it was rotated, update the repository secret."
             exit 1
           fi
 
-          echo "WakaTime API access verified."
+          echo "WakaTime OAuth access verified."
 
       - name: Update README coding stats
         uses: athul/waka-readme@v0.3.1
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # This action input is named WAKATIME_API_KEY, but WakaTime now requires an OAuth token.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ github.token }}
           SHOW_TITLE: true
           SHOW_TIME: true
