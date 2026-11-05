@@ -47,7 +47,7 @@ jobs:
                 echo "WakaTime response: ${message}"
               fi
             fi
-            echo "Check that WAKATIME_OAUTH_TOKEN is the current API key from your WakaTime account. If it was rotated, update the repository secret."
+            echo "Create a personal OAuth token at https://wakatime.com/oauth and save it as the WAKATIME_OAUTH_TOKEN repository secret."
             exit 1
           fi
 
