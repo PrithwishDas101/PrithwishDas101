@@ -24,19 +24,19 @@ jobs:
     steps:
       - name: Check WakaTime API access
         env:
-          WAKATIME_OAUTH_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN || secrets.WAKATIME_API_KEY }}
         run: |
           set -euo pipefail
 
-          if [ -z "${WAKATIME_OAUTH_TOKEN}" ]; then
-            echo "::error::WAKATIME_OAUTH_TOKEN is missing. Add it in Settings > Secrets and variables > Actions."
+          if [ -z "${WAKATIME_TOKEN}" ]; then
+            echo "::error::Neither WAKATIME_OAUTH_TOKEN nor WAKATIME_API_KEY is set. Add one in Settings > Secrets and variables > Actions."
             exit 1
           fi
 
           status="$(curl --silent --show-error \
             --output /tmp/waka-response.json \
             --write-out "%{http_code}" \
-            --user "${WAKATIME_OAUTH_TOKEN}:" \
+            --user "${WAKATIME_TOKEN}:" \
             "https://wakatime.com/api/v1/users/current/stats/last_7_days")"
 
           if [ "${status}" != "200" ]; then
@@ -47,7 +47,7 @@ jobs:
                 echo "WakaTime response: ${message}"
               fi
             fi
-            echo "Create a personal OAuth token at https://wakatime.com/oauth and save it as the WAKATIME_OAUTH_TOKEN repository secret."
+            echo "Create a personal OAuth token at https://wakatime.com/oauth and save it as WAKATIME_OAUTH_TOKEN (or use the existing WAKATIME_API_KEY secret)."
             exit 1
           fi
 
@@ -57,7 +57,7 @@ jobs:
         uses: athul/waka-readme@v0.3.1
         with:
           # This action input is named WAKATIME_API_KEY, but WakaTime now requires an OAuth token.
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN || secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ github.token }}
           SHOW_TITLE: true
           SHOW_TIME: true
