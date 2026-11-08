@@ -392,9 +392,8 @@ alt="Prithwish's GitHub Activity Graph"
     <img src="https://raw.githubusercontent.com/PrithwishDas101/PrithwishDas101/output/tulkun/tulkun.gif" width="640" alt="My Git-Tulkun — a pixel-art Tulkun that grows with my GitHub contributions" />
   </a>
   <br />
-  <em>A pixel-art Tulkun that evolves with my GitHub contributions.</em>
+  <em>A Whale that evolves with my GitHub contributions.</em>
   <br />
-  <a href="https://github.com/PramudithaN/git-tulkun">Built with git-tulkun by @PramudithaN</a>
 </p>
 
 ---
