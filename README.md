@@ -333,21 +333,6 @@ Building practical software projects while studying Computer Science and Artific
 
 ---
 
-## Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -400,7 +385,7 @@ alt="Prithwish's GitHub Activity Graph"
 
 ---
 
-## Git-Tulkun
+## Cool-Whale
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
